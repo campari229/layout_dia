@@ -1,0 +1,219 @@
+@-webkit-keyframes flying-square {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); }
+  50% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%); }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
+
+@keyframes flying-square {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); }
+  50% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%); }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
+
+.about__title, .aproach__title, .contact__title, .footer__form-title, .testimonials__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 150%; }
+
+.aproach__sub-title, .contact__text, .servises__info-process, .people-card__company, .testimonials__sub-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 19px;
+  letter-spacing: 3px;
+  text-transform: uppercase; }
+
+.expertise__title, .promo__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 52px;
+  line-height: 150%; }
+
+.expertise__item-text, .servises__info-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 150%; }
+
+.servises-card__item, .people-card__text, .people-card__name {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 150%; }
+
+.expertise__item-title, .header__title, .servises-card__number, .servises-card__button, .servises__info-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600; }
+
+@keyframes flying-square {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); }
+  50% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%); }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
+
+.about__title, .aproach__title, .contact__title, .footer__form-title, .testimonials__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 150%; }
+
+.aproach__sub-title, .contact__text, .servises__info-process, .people-card__company, .testimonials__sub-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 19px;
+  letter-spacing: 3px;
+  text-transform: uppercase; }
+
+.expertise__title, .promo__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 52px;
+  line-height: 150%; }
+
+.expertise__item-text, .servises__info-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 150%; }
+
+.servises-card__item, .people-card__text, .people-card__name {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 150%; }
+
+.expertise__item-title, .header__title, .servises-card__number, .servises-card__button, .servises__info-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600; }
+
+.about {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%; }
+
+.aproach__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  line-height: 150%; }
+
+.btn {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 22px; }
+
+.expertise__item-title {
+  font-size: 20px;
+  line-height: 140%; }
+
+.contact__link {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%; }
+
+.header__title {
+  font-size: 64px;
+  line-height: 106%;
+  letter-spacing: -2px; }
+
+.header__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  line-height: 150%; }
+
+.promo__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  line-height: 150%; }
+
+.servises-card__number {
+  font-size: 13px;
+  line-height: 24px; }
+
+.servises-card__button {
+  font-size: 15px;
+  line-height: 22px; }
+
+.servises__info-title {
+  font-size: 32px;
+  line-height: 130%; }
+
+.slider__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 140%; }
+
+.slider__text-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 19px;
+  text-transform: uppercase;
+  letter-spacing: 3px; }
+
+.servises-card {
+  position: relative;
+  background: #fff;
+  -webkit-box-shadow: 0 9px 18px rgba(37, 41, 49, 0.03);
+          box-shadow: 0 9px 18px rgba(37, 41, 49, 0.03);
+  border-radius: 16px;
+  padding: 32px; }
+  .servises-card__number {
+    background-color: #2362f61a;
+    border-radius: 23px;
+    display: inline-block;
+    width: 46px;
+    height: 24px;
+    margin-bottom: 24px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #2060f6; }
+  .servises-card__item {
+    color: #6c788b; }
+  .servises-card__list {
+    margin-bottom: 40px; }
+  .servises-card__button {
+    color: #334563;
+    text-decoration: none;
+    padding-left: 40px; }
+  .servises-card__button::before {
+    position: absolute;
+    content: "";
+    text-align: center;
+    line-height: 20px;
+    left: 20px;
+    bottom: 20px;
+    background: url(../images/arrow.svg) center no-repeat;
+    width: 48px;
+    height: 48px;
+    background-color: #2060f6;
+    border-radius: 50px;
+    overflow: hidden;
+    -webkit-transition: width 0.5s;
+    transition: width 0.5s; }
+  .servises-card__button:hover::before {
+    width: 200px;
+    border-radius: 50px;
+    background: #2060f6;
+    content: "Learn more";
+    line-height: 48px;
+    color: #fff; }
+
+/*# sourceMappingURL=servises-card.css.map */

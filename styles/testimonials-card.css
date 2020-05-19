@@ -1,0 +1,252 @@
+@-webkit-keyframes flying-square {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); }
+  50% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%); }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
+
+@keyframes flying-square {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); }
+  50% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%); }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
+
+.about__title, .aproach__title, .contact__title, .footer__form-title, .testimonials__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 150%; }
+
+.aproach__sub-title, .contact__text, .servises__info-process, .people-card__company, .testimonials__sub-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 19px;
+  letter-spacing: 3px;
+  text-transform: uppercase; }
+
+.expertise__title, .promo__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 52px;
+  line-height: 150%; }
+
+.expertise__item-text, .servises__info-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 150%; }
+
+.servises-card__item, .people-card__text, .people-card__name {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 150%; }
+
+.expertise__item-title, .header__title, .servises-card__number, .servises-card__button, .servises__info-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600; }
+
+@keyframes flying-square {
+  0% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); }
+  50% {
+    -webkit-transform: translateY(100%);
+            transform: translateY(100%); }
+  100% {
+    -webkit-transform: translateY(0);
+            transform: translateY(0); } }
+
+.about__title, .aproach__title, .contact__title, .footer__form-title, .testimonials__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 150%; }
+
+.aproach__sub-title, .contact__text, .servises__info-process, .people-card__company, .testimonials__sub-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 19px;
+  letter-spacing: 3px;
+  text-transform: uppercase; }
+
+.expertise__title, .promo__title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 52px;
+  line-height: 150%; }
+
+.expertise__item-text, .servises__info-text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 150%; }
+
+.servises-card__item, .people-card__text, .people-card__name {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 150%; }
+
+.expertise__item-title, .header__title, .servises-card__number, .servises-card__button, .servises__info-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600; }
+
+.about {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%; }
+
+.aproach__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 15px;
+  line-height: 150%; }
+
+.btn {
+  font-family: "Poppins", sans-serif;
+  font-weight: 600;
+  font-size: 15px;
+  line-height: 22px; }
+
+.expertise__item-title {
+  font-size: 20px;
+  line-height: 140%; }
+
+.contact__link {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 150%; }
+
+.header__title {
+  font-size: 64px;
+  line-height: 106%;
+  letter-spacing: -2px; }
+
+.header__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  line-height: 150%; }
+
+.promo__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 24px;
+  line-height: 150%; }
+
+.servises-card__number {
+  font-size: 13px;
+  line-height: 24px; }
+
+.servises-card__button {
+  font-size: 15px;
+  line-height: 22px; }
+
+.servises__info-title {
+  font-size: 32px;
+  line-height: 130%; }
+
+.slider__text {
+  font-family: "Open Sans", sans-serif;
+  font-size: 14px;
+  line-height: 140%; }
+
+.slider__text-title {
+  font-family: "Poppins", sans-serif;
+  font-weight: bold;
+  font-size: 13px;
+  line-height: 19px;
+  text-transform: uppercase;
+  letter-spacing: 3px; }
+
+.people-card {
+  width: 314px;
+  height: 494px;
+  background-color: #fff;
+  position: relative;
+  -webkit-box-shadow: 0 9px 18px rgba(37, 41, 49, 0.03);
+          box-shadow: 0 9px 18px rgba(37, 41, 49, 0.03);
+  border-radius: 16px;
+  padding: 87px 32px 32px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: column;
+          flex-direction: column;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  text-align: center;
+  -webkit-transition: border 0.5s, -webkit-transform 0.5s;
+  transition: border 0.5s, -webkit-transform 0.5s;
+  transition: border 0.5s, transform 0.5s;
+  transition: border 0.5s, transform 0.5s, -webkit-transform 0.5s; }
+  .people-card:hover {
+    border: 2px solid #2060f6;
+    -webkit-transform: scale(1.1);
+            transform: scale(1.1); }
+  .people-card__photo-wrapper {
+    width: 100%;
+    margin-bottom: 111px;
+    position: relative; }
+  .people-card__photo-wrapper::before {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 139px;
+    height: 56px;
+    border-radius: 12px;
+    -webkit-transform: rotate(-60deg);
+            transform: rotate(-60deg);
+    background-color: #2060f6;
+    top: 0;
+    left: 0; }
+  .people-card__photo-wrapper::after {
+    content: "";
+    position: absolute;
+    display: block;
+    width: 139px;
+    height: 56px;
+    border-radius: 12px;
+    -webkit-transform: rotate(-60deg);
+            transform: rotate(-60deg);
+    background-color: #2060f6;
+    bottom: 0;
+    right: 0; }
+  .people-card__photo {
+    position: relative;
+    width: 140px;
+    height: 140px;
+    z-index: 1;
+    -o-object-fit: cover;
+       object-fit: cover;
+    border-radius: 50%; }
+  .people-card__text {
+    color: #6c788b;
+    margin-bottom: 16px; }
+  .people-card__text::before {
+    content: "";
+    position: absolute;
+    bottom: 160px;
+    left: calc(50% - 10px);
+    width: 20px;
+    height: 20px;
+    background: url(../images/testimonials/quotes.svg) center no-repeat; }
+  .people-card__name {
+    color: #253757;
+    margin-bottom: 4px; }
+  .people-card__company {
+    color: #c0cdd7; }
+
+/*# sourceMappingURL=testimonials-card.css.map */
