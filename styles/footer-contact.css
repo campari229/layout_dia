@@ -132,6 +132,9 @@
   font-size: 64px;
   line-height: 106%;
   letter-spacing: -2px; }
+  @media (max-width: 950px) {
+    .header__title {
+      font-size: 45px; } }
 
 .header__text {
   font-family: "Open Sans", sans-serif;
@@ -177,7 +180,7 @@
   .contact__link {
     color: #fff;
     text-decoration: none;
-    display: block;
+    display: inline-block;
     -webkit-transition: color 0.5s;
     transition: color 0.5s;
     margin-bottom: 48px; }
